@@ -1,0 +1,384 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="C:\Users\ne1006\AppData\Local\Programs\Python\Python36\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1354107233" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (PycharmProjects)" />
+      <type value="Python SDK" />
+      <homePath value="C:\PycharmProjects\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36" type="simple" />
+            <root url="file://C:/PycharmProjects/venv" type="simple" />
+            <root url="file://C:/PycharmProjects/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/PycharmProjects/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://C:/PycharmProjects/venv/Lib/site-packages/pip-10.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1992222464" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/PycharmProjects" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 Vagrant VM at C:\PycharmProjects\CPTDUO (/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="vagrant://C:\PycharmProjects\CPTDUO/usr/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/742297842/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/742297842/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/742297842/1405239563" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/742297842/-1171821208" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/757987141" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/1405239563" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/-1171821208" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/742297842/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/742297842/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/742297842/757987141" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/742297842/1405239563" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/742297842/-1171821208" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/742297842" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="C:/PycharmProjects/CPTDUO" INTERPRETER_PATH="/usr/bin/python3" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/742297842/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/742297842/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/742297842/1405239563" remote-root="/usr/local/lib/python3.5/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/742297842/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/757987141" remote-root="/home/vagrant/.local/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/1405239563" remote-root="/usr/local/lib/python3.5/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/742297842/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/742297842/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/742297842/757987141" remote-root="/home/vagrant/.local/lib/python3.5/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/742297842/1405239563" remote-root="/usr/local/lib/python3.5/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/742297842/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (django-qpdGNJMc)" />
+      <type value="Python SDK" />
+      <homePath value="C:\Users\ne1006\.virtualenvs\django-qpdGNJMc\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/django-qpdGNJMc/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/django-qpdGNJMc/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/django-qpdGNJMc" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/django-qpdGNJMc/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1417971992" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Projects/django" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (pages-vU2SCbVn)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="C:\Users\ne1006\.virtualenvs\pages-vU2SCbVn\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/pages-vU2SCbVn/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/pages-vU2SCbVn/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/pages-vU2SCbVn" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/pages-vU2SCbVn/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1117966562" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Projects/pages" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (mybackend)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="C:\Users\ne1006\Projects\django\mybackend\env\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Projects/django/mybackend/env/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Projects/django/mybackend/env/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Projects/django/mybackend/env" type="simple" />
+            <root url="file://$USER_HOME$/Projects/django/mybackend/env/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1981987741" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Projects/django/mybackend" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (django_auto_env)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="C:\Users\ne1006\Projects\django-AutoComplete_project\django_auto_env\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36" type="simple" />
+            <root url="file://$USER_HOME$/Projects/django-AutoComplete_project/django_auto_env/venv" type="simple" />
+            <root url="file://$USER_HOME$/Projects/django-AutoComplete_project/django_auto_env/venv/Lib/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/Projects/django-AutoComplete_project/django_auto_env/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Projects/django-AutoComplete_project/django_auto_env/venv/Lib/site-packages/pip-10.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1975133707" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Projects/django-AutoComplete_project/django_auto_env" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (autocomplete_project)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="C:\Users\ne1006\Projects\django-AutoComplete_project\autocomplete_project\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Projects/django-AutoComplete_project/autocomplete_project/venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Projects/django-AutoComplete_project/autocomplete_project/venv/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Projects/django-AutoComplete_project/autocomplete_project/venv" type="simple" />
+            <root url="file://$USER_HOME$/Projects/django-AutoComplete_project/autocomplete_project/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-666738258" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Projects/django-AutoComplete_project/autocomplete_project" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 Vagrant VM at C:\PycharmProjects\CPTDUO (/usr/bin/python3) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="vagrant://C:\PycharmProjects\CPTDUO/usr/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/452379848" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/1405239563" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/-1171821208" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/757987141" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/742297842" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="C:/PycharmProjects/CPTDUO" INTERPRETER_PATH="/usr/bin/python3" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/1405239563" remote-root="/usr/local/lib/python3.5/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.2/system/remote_sources/742297842/757987141" remote-root="/home/vagrant/.local/lib/python3.5/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (my_site_app)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="C:\Users\ne1006\.virtualenvs\my_site_app-VUTKdjsh\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/my_site_app-VUTKdjsh/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/my_site_app-VUTKdjsh/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/my_site_app-VUTKdjsh" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/my_site_app-VUTKdjsh/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/352107132" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Projects/Tutorials_Django/my_site_app" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Pipenv (my_app_site)" />
+      <type value="Python SDK" />
+      <homePath value="C:\Users\ne1006\.virtualenvs\my_app_site-9GtewlPe\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/my_app_site-9GtewlPe/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/my_app_site-9GtewlPe/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/my_app_site-9GtewlPe" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/my_app_site-9GtewlPe/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-45803392" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Projects/Tutorials_Django/my_app_site" IS_PIPENV="true" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (my_new_project-TowsDLs4)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="C:\Users\ne1006\.virtualenvs\my_new_project-TowsDLs4\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.virtualenvs/my_new_project-TowsDLs4/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/my_new_project-TowsDLs4/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/my_new_project-TowsDLs4" type="simple" />
+            <root url="file://$USER_HOME$/.virtualenvs/my_new_project-TowsDLs4/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1113105976" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Projects/Docker_Tutorials/my_new_project" />
+    </jdk>
+  </component>
+</application>

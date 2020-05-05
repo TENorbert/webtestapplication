@@ -1,0 +1,26 @@
+<toolSet name="External Tools">
+  <tool name="Pylint" description="A Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="pylint" />
+      <option name="PARAMETERS" value="-dr -dw -dc -f parseable $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+    <filter>
+      <option name="NAME" value="No name" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value=".*$FILE_PATH$\:$LINE$\:.*" />
+    </filter>
+  </tool>
+  <tool name="WindowsPylint" description="A Python source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\ne1006\AppData\Local\Programs\Python\Python36\Scripts\pylint.exe" />
+      <option name="PARAMETERS" value="-dw -dr -f parseable  --msg-template='{C}:{line:3d}:{category},{path},{msg}:{column}:{symbol}' $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+    <filter>
+      <option name="NAME" value="No name" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value=".*$FILE_PATH$\:$LINE$\:.*" />
+    </filter>
+  </tool>
+</toolSet>
